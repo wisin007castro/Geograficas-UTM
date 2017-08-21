@@ -10,3 +10,16 @@ C:\Users\ghost\Documents\Visual Studio 2012\Projects\Geodesica\Geodesica\bin\Deb
 C:\Users\ghost\Documents\Visual Studio 2012\Projects\Geodesica\Geodesica\bin\Debug\Geodesica.application
 C:\Users\ghost\Documents\Visual Studio 2012\Projects\Geodesica\Geodesica\obj\Debug\Geodesica.exe.manifest
 C:\Users\ghost\Documents\Visual Studio 2012\Projects\Geodesica\Geodesica\obj\Debug\Geodesica.application
+C:\Users\ghost\Documents\Visual Studio 2012\Projects\Geograficas-UTM\Geodesica\bin\Debug\Geodesica.exe.config
+C:\Users\ghost\Documents\Visual Studio 2012\Projects\Geograficas-UTM\Geodesica\obj\Debug\Geodesica.exe
+C:\Users\ghost\Documents\Visual Studio 2012\Projects\Geograficas-UTM\Geodesica\obj\Debug\Geodesica.pdb
+C:\Users\ghost\Documents\Visual Studio 2012\Projects\Geograficas-UTM\Geodesica\bin\Debug\Geodesica.exe.manifest
+C:\Users\ghost\Documents\Visual Studio 2012\Projects\Geograficas-UTM\Geodesica\bin\Debug\Geodesica.application
+C:\Users\ghost\Documents\Visual Studio 2012\Projects\Geograficas-UTM\Geodesica\bin\Debug\Geodesica.exe
+C:\Users\ghost\Documents\Visual Studio 2012\Projects\Geograficas-UTM\Geodesica\bin\Debug\Geodesica.pdb
+C:\Users\ghost\Documents\Visual Studio 2012\Projects\Geograficas-UTM\Geodesica\obj\Debug\Geodesica.csprojResolveAssemblyReference.cache
+C:\Users\ghost\Documents\Visual Studio 2012\Projects\Geograficas-UTM\Geodesica\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ghost\Documents\Visual Studio 2012\Projects\Geograficas-UTM\Geodesica\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ghost\Documents\Visual Studio 2012\Projects\Geograficas-UTM\Geodesica\obj\Debug\Geodesica.csproj.GenerateResource.Cache
+C:\Users\ghost\Documents\Visual Studio 2012\Projects\Geograficas-UTM\Geodesica\obj\Debug\Geodesica.exe.manifest
+C:\Users\ghost\Documents\Visual Studio 2012\Projects\Geograficas-UTM\Geodesica\obj\Debug\Geodesica.application
