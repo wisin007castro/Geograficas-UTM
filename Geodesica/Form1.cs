@@ -32,7 +32,7 @@ namespace WindowsFormsApplication1
 
 
 
-            e1 = Math.Sqrt(Math.Pow(a, 2) - Math.Pow(b, 2)) / a; //Srimera excentricidad
+            e1 = Math.Sqrt(Math.Pow(a, 2) - Math.Pow(b, 2)) / a; //Primera excentricidad
             e2 = Math.Sqrt(Math.Pow(a, 2) - Math.Pow(b, 2)) / b; //Segunda excentricidad
             e22 = Math.Pow(e2, 2);
 
@@ -47,11 +47,11 @@ namespace WindowsFormsApplication1
 
                 if (cbLong.Text.Equals("Oeste"))
                 {
-                    GradLong = GradLong * (-1); //en caso de que la Longitud sea de Oeste multiplicar por (-1) 
+                    GradLong = GradLong * (-1); ///Si la Longitud es de Oeste multiplicar por (-1) 
                 }
                 if (cbLat.Text.Equals("Sur")) 
                 {
-                    GradLat = GradLat * (-1);//en caso de que la Longitud sea de Sur multiplicar por (-1)
+                    GradLat = GradLat * (-1);//Si la Llatitud es de Sur multiplicar por (-1)
                 }
 
                 //convirtiendo la Longitud y Latitud de Decimales a Radianes
